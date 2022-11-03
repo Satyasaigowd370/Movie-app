@@ -23,6 +23,3 @@ exports.updateList = function(req, res) {
       res.json(errors)
     })
 }
-
-
-e
