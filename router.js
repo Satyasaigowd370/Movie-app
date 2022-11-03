@@ -18,7 +18,7 @@ apiRouter.post("/login", userController.apiLogin)
 apiRouter.post("/addToList",listController.apiAddtoList)
 apiRouter.post("/updateList",listController.updateList)
 
-apiRouter.get("/getLists",listController.getLists)
+
 
 
 
